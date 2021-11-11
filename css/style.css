@@ -1,0 +1,25 @@
+h2{
+	color: red;
+}
+.head1{
+	background-color: green;
+}
+.border{
+	border: 3px dashed black; 
+}
+
+#h2{
+	font-size:60px ;
+	background-color: blue;
+	color: black;
+}
+
+.box{
+	width:150px;
+	height:50px;
+	background-color: rgba(00,00,00,.4);
+
+}
+
+
+
